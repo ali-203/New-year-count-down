@@ -36,7 +36,8 @@ setTimeout(() => {
 }, 1000);
 
 // Run every second
-setInterval(updateCountdown, 1000);nst days = document.getElementById('days');
+setInterval(updateCountdown, 1000);
+const days = document.getElementById('days');
 
 
 
